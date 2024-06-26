@@ -1,0 +1,61 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "slots": [
+            {
+              "name": "input",
+              "type": "AMAZON.City"
+            }
+          ],
+          "name": "HelloWorldIntent",
+          "samples": [
+            "say the weather of {input}",
+            "hello",
+            "how are you",
+            "say hi world",
+            "say hi",
+            "hi",
+            "say hello world",
+            "say hello"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "slots": [
+            {
+              "name": "input",
+              "type": "AMAZON.City"
+            }
+          ],
+          "name": "SaveIntent",
+          "samples": [
+            "save {input}"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "hello world"
+    }
+  }
+}
