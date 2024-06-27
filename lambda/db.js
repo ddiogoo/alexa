@@ -1,7 +1,7 @@
 const AWS = require("aws-sdk");
 const ddbAdapter = require('ask-sdk-dynamodb-persistence-adapter');
 
-const { REGION, ACCESS_KEY_ID, SECRET_ACCESS_KEY } = require('./config');
+const { TABLE_NAME, REGION, ACCESS_KEY_ID, SECRET_ACCESS_KEY } = require('./config');
 
 /**
  * Custom DynamoDB persistence adapter.
@@ -73,7 +73,7 @@ class CustomDynamoDbPersistenceAdapter extends ddbAdapter.DynamoDbPersistenceAda
  * The DynamoDB adapter instance.
  */
 const ddbAdapterInstance = new CustomDynamoDbPersistenceAdapter({
-    tableName: 'city',
+    tableName: TABLE_NAME,
     createTable: false,
     dynamoDBClient: new AWS.DynamoDB({
         apiVersion: 'latest',
