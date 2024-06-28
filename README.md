@@ -3,7 +3,7 @@
 ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6.svg?logo=Amazon-DynamoDB&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?logo=AWS-Lambda&logoColor=white)
 
-# Alexa Skills
+# Alexa
 
 This application is a distributed system of a custom Alexa skill. It uses AWS Lambda as a trigger, DynamoDB (non-relational database) for data persistence and Node.js as the main language for skill development. This work is a project related to the topic of serverless computing.
 
