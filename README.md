@@ -1,6 +1,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E.svg?logo=nodedotjs&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?logo=AWS-Lambda&logoColor=white)
+![Amazon Alexa](https://img.shields.io/badge/Amazon%20Alexa-00CAFF.svg?logo=Amazon-Alexa&logoColor=white)
 ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6.svg?logo=Amazon-DynamoDB&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?logo=AWS-Lambda&logoColor=white)
 
 # Alexa Skills
 
