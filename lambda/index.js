@@ -1,8 +1,8 @@
 const Alexa = require("ask-sdk-core");
 
 const axios = require("axios");
-const { OPEN_WEATHER_API } = require("./config");
-const { ddbAdapterInstance } = require("./db");
+const { OPEN_WEATHER_API } = require("./config/config");
+const { ddbAdapterInstance } = require("./database/db");
 
 /**
  * The LaunchRequestHandler handles the launch of the skill and provides a welcome message to the user.
