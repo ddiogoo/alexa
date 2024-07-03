@@ -38,6 +38,5 @@ Note that inside the `interactionModel` folder there is a Json with the intents 
 ## Technology
 
 - [Node](https://nodejs.org/en)
-- [Open Weather](https://openweathermap.org/api)
 - [AWS Lambda](https://aws.amazon.com/pt/pm/lambda/?gclid=CjwKCAjwm_SzBhAsEiwAXE2Cv9-am38f8as8BdYWK9-KQjLtO7JCHJG-EWSAkfArVJxfL_2IIbhZkRoCY9EQAvD_BwE&trk=56f58804-91cd-4af4-98d4-afe277a57fd3&sc_channel=ps&ef_id=CjwKCAjwm_SzBhAsEiwAXE2Cv9-am38f8as8BdYWK9-KQjLtO7JCHJG-EWSAkfArVJxfL_2IIbhZkRoCY9EQAvD_BwE:G:s&s_kwcid=AL!4422!3!651510591822!e!!g!!aws%20lambda!19828231347!148480170233)
 - [Amazon DynamoDB](https://aws.amazon.com/pt/pm/dynamodb/?gclid=CjwKCAjwm_SzBhAsEiwAXE2Cv14OZd0w7onoIv7SKjbXW-RBA-Txao2Zv5AGnKTXXkX6qfvFRKOpORoC1GUQAvD_BwE&trk=e27ab896-a1e8-4e50-93c5-d7ce76fe04ed&sc_channel=ps&ef_id=CjwKCAjwm_SzBhAsEiwAXE2Cv14OZd0w7onoIv7SKjbXW-RBA-Txao2Zv5AGnKTXXkX6qfvFRKOpORoC1GUQAvD_BwE:G:s&s_kwcid=AL!4422!3!536393507464!e!!g!!dynamodb!12024810846!121787472211)
