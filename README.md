@@ -13,7 +13,7 @@ This application is a distributed system of a custom Alexa skill. It uses AWS La
 - Amazon Developer account.
 - User permission to obtain the access key and secret access key.
 
-## How to configure
+## Configure
 
 ### Configure database
 
