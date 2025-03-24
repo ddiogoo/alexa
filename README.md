@@ -15,15 +15,15 @@ This application is a distributed system of a custom Alexa skill. It uses AWS La
 
 ## Configure
 
-### *Configure database*
+### *Database*
 
 For the database, you need to fill in the `config.js` file with your AWS account information, as well as the table you created in DynamoDB.
 
-### *Configure API*
+### *API*
 
 The API key can be obtained from this [website](https://openweathermap.org/api). After obtaining the API key, you need to insert it in the `config.js` file.
 
-### *Configure AWS Lambda*
+### *AWS Lambda*
 
 When creating an AWS Lambda with access permission to DynamoDB, you must enter the trigger as “Alexa”.
 
